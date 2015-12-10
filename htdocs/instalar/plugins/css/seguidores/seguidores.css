@@ -1,0 +1,85 @@
+.classe_div_campo_seguir{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_campo_seguir div{
+
+float: left;
+margin-right: 5px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_seguidores_usuario{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+display: table;
+
+}
+
+.classe_div_seguidor_usuario{
+
+float: left;
+width: 31.5%;
+height: 75px;
+padding: 0.5%;
+padding-top: 5px;
+padding-bottom: 5px;
+background-color: #ffffff;
+margin-left: 0.5%;
+margin-bottom: 5px;
+border-color: #3b5998;
+border-style: solid;
+border-width: 1px;
+border-top-width: 10px;
+display: table;
+table-layout: fixed;
+
+}
+
+.classe_div_seguidor_usuario_imagem{
+
+width: 35px;
+height: 35px;
+float: left;
+margin-right: 5px;
+
+}
+
+.classe_div_seguidor_usuario_nome{
+
+float: left;
+width: 200px;
+height: 15px;
+
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+
+}
+
+.classe_div_seguidor_usuario_botao{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_seguidores_usuario_numero{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+background-color: #ffffff;
+
+}
+
+

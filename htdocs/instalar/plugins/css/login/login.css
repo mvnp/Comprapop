@@ -1,0 +1,26 @@
+.classe_div_campo_recuperar_senha{
+
+float: left;
+width: 99%;
+padding-left: 0.5%;
+padding-right: 0.5%;
+margin-bottom: 5px;
+margin-top: 5px;
+text-align: center;
+
+}
+
+.classe_div_campo_recuperar_senha div{
+
+float: left;
+width: 100%;
+margin-bottom: 5px;
+display: table;
+
+}
+
+#id_mensagem_recuperou_senha_usuario{
+	
+display: none;
+
+};

@@ -1,0 +1,62 @@
+.classe_div_formulario{
+
+max-width: 98%;
+width: 300px;
+padding: 1%;
+display: table;
+padding-top: 0px;
+padding-bottom: 5px;
+background-color: #ffffff;
+
+border-color: #3b5998;
+border-style: solid;
+border-width: 1px;
+border-top-width: 10px;
+
+margin-bottom: 15px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.classe_div_formulario input[type=text], textarea, input[type=password]{
+
+float: left;
+margin-bottom: 5px;
+width: 100%;
+
+}
+
+.classe_div_formulario span{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+
+}
+
+.formulario_login_separa_div{
+
+float: left;
+width: 100%;
+margin-top: 5px;
+
+}
+
+.classe_mensagem_login_cadastro{
+
+width: 100%;
+float: left;
+margin-bottom: 5px;
+
+}
+
+.formulario_login_span_descricao_topo{
+
+float: left;
+width: 100%;
+margin-bottom: 5px;
+font-weight: bold;
+
+}
+

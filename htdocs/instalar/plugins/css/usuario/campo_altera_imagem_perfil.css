@@ -1,0 +1,26 @@
+.classe_div_campo_altera_imagem_perfil{
+
+width: 100%;
+float: left;
+background-color: #ffffff;
+margin-bottom: 10px;
+
+}
+
+.classe_div_pre_visualiza_imagem_perfil{
+
+float: left;
+width: 100%;
+max-height: 350px;
+margin-bottom: 2px;
+
+}
+
+.classe_div_formulario_recorte_imagem_perfil{
+
+float: left;
+margin-bottom: 5px;
+width: 100%;
+
+}
+

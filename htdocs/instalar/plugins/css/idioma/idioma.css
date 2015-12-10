@@ -1,0 +1,19 @@
+.classe_div_campo_seleciona_idioma{
+
+width: 99%;
+float: left;
+padding-left: 0.5%;
+padding-right: 0.5%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_campo_seleciona_idioma img{
+
+float: left;
+margin-left: 2px;
+width: 48px;
+cursor: pointer;
+
+}
+

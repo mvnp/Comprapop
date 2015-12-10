@@ -1,0 +1,52 @@
+
+progress{
+
+appearance: none;
+-moz-appearance: none;
+-webkit-appearance: none;
+border: none;
+width: 100%;
+height: 20px;
+float: left;
+
+}
+ 
+/* Firefox  */ 
+progress{
+
+background: #ffffff;
+border:1px solid #3b5998;
+
+}
+
+progress::-moz-progress-bar{
+
+background: 46638d;
+
+}
+
+progress:not([value])::-moz-progress-bar{
+
+background: #46638d;
+ 
+}
+ 
+/* Chrome */
+progress::-webkit-progress-bar{
+
+background: #ffffff;
+
+}
+
+progress::-webkit-progress-value{
+
+background: #46638d;
+
+}
+
+progress:not([value])::-webkit-progress-bar{
+
+background: #46638d;
+
+}
+

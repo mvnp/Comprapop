@@ -1,0 +1,30 @@
+.classe_div_compartilhar{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+padding-top: 0px;
+padding-bottom: 0px;
+margin-top: 15px;
+margin-bottom: 5px;
+background-color: #fbfbfa;
+display: table;
+
+border-width: 1px;
+border-style: solid;
+border-color: #f4f2f0;
+border-radius: 3px;
+
+}
+
+.classe_div_separa_sessao_rede_social{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+padding-top: 0px;
+padding-bottom: 0px;
+margin-bottom: 5px;
+
+}
+

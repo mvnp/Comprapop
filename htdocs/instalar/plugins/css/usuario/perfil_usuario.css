@@ -1,0 +1,246 @@
+.classe_div_opcao{
+
+float: left;
+margin-left: 4px;
+margin-right: 8px;
+margin-bottom: 4px;
+margin-top: 4px;
+cursor: pointer;
+
+}
+
+.classe_div_opcao *{
+
+float: left;
+
+}
+
+.classe_div_perfil_usuario_produto{
+
+float: left;
+padding: 1%;
+width: 98%;
+margin-top: 10px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_perfil_usuario_produto div{
+
+float: left;
+margin-right: 5px;
+height: 38px;
+
+}
+
+.classe_div_perfil_usuario_produto span{
+
+float: left;
+margin-right: 5px;
+margin-top: 4px;
+font-size: 11px;
+width: 84%;
+
+}
+
+.classe_div_campo_opcoes_perfil{
+
+width: 100%;
+float: left;
+margin-top: 8px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_configura_perfil{
+
+float: left;
+width: 100%;
+display: table;
+table-layout: fixed;
+
+}
+
+.classe_div_configura_perfil_campo{
+
+float: left;
+width: 100%;
+margin-bottom: 15px;
+
+}
+
+.classe_div_configura_perfil_campo input[type=text]{
+
+float: left;
+margin-top: 5px;
+width: 300px;
+
+}
+
+.classe_div_configura_perfil_campo textarea{
+
+float: left;
+margin-top: 5px;
+width: 300px;
+
+}
+
+.classe_div_configura_perfil_campo span{
+
+float: left;
+margin-top: 5px;
+width: 100%;
+margin-bottom: 2px;
+
+}
+
+.imagem_perfil_usuario{
+
+max-width: 100%;
+max-height: 300px;
+
+}
+
+.classe_imagem_miniatura_perfil{
+
+width: 36px;
+height: 36px;
+
+}
+
+.clesse_div_perfil_completo{
+
+float: left;
+width: 99%;
+padding: 0.3%;
+background-color: #ffffff;
+
+border-color: #3b5998;
+border-style: solid;
+border-width: 1px;
+border-top-width: 10px;
+margin-bottom: 5px;
+
+}
+
+.clesse_div_perfil_completo span{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+padding-top: 0px;
+padding-bottom: 0px;
+margin-bottom: 3px;
+background-color: #f7f7f7;
+
+border-bottom-color: #dfe3ee;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+
+}
+
+.clesse_div_perfil_completo div{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_imagem_perfil_topo{
+
+float: right;
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+
+.clesse_div_perfil_completo_seguir{
+
+width: 100%;
+float: left;
+margin-bottom: 5px;
+
+}
+
+.classe_div_imagem_perfil{
+
+float: left;
+width: 100%;
+display: table;
+margin-bottom: 10px;
+
+}
+
+.classe_div_imagem_perfil img{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_perfil_usuario{
+
+float: left;
+width: 100%;
+display: table;
+padding: 0.5%;
+padding-top: 0px;
+padding-bottom: 0px;
+
+}
+
+.classe_div_nome_usuario_perfil{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+padding-top: 0px;
+padding-bottom: 0px;
+
+margin-bottom: 10px;
+font-size: 22px;
+font-weight: bold;
+
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+
+}
+
+.classe_div_informacoes_perfil_usuario{
+
+float: right;
+width: 79%;
+padding: 0.3%;
+padding-top: 5px;
+padding-bottom: 0px;
+margin-bottom: 10px;
+
+border-color: #ebeef4;
+border-style: solid;
+border-width: 1px;
+border-top-width: 10px;
+
+}
+
+.classe_div_informacoes_perfil_usuario_span{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+padding-top: 0px;
+padding-bottom: 0px;
+margin-bottom: 5px;
+font-size: 13px;
+
+}
+
+.classe_div_configura_perfil_upload_imagem{
+
+width: 300px;
+margin-bottom: 15px;
+display: table;
+
+}

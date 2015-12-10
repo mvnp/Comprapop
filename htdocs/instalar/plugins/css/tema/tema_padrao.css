@@ -1,0 +1,181 @@
+
+@font-face {
+
+font-family: 'HelveticaNeue';
+src: url('HelveticaNeue.ttf');
+src: local('HelveticaNeue'), url('HelveticaNeue.ttf') format('truetype');
+
+}
+
+*{
+
+word-break: break-all;
+color: #000000;
+margin: 0px;
+padding: 0px;
+direction: ltr;
+font-family: HelveticaNeue;
+font-size: 14px;
+line-height: 1.182;
+font-weight: normal;
+
+}
+
+img:hover{
+
+-webkit-filter: grayscale(1);
+
+}
+
+a{
+
+color: #2B587A;
+text-decoration: none;
+cursor: pointer;
+
+}
+
+a:hover{
+
+text-decoration: underline;
+
+}
+
+body, html{
+
+max-width: 100%;
+min-width: 1007px;
+background-color: #ffffff;
+
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+height: auto;
+
+}
+
+.classe_div_principal_pagina{
+
+float: left;
+width: 100%;
+display: table;
+table-layout: fixed;
+
+}
+
+.div_topo_pagina{
+
+float: left;
+width: 100%;
+min-height: 40px;
+background-color: #3b5998;
+border-bottom-color: #355088;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+display: table;
+table-layout: fixed;
+padding-bottom: 3px;
+
+}
+
+.div_topo_pagina a{
+
+font-weight: bold;
+font-size: 12px;
+
+}
+
+.div_conteudo_pagina{
+
+float: left;
+width: 100%;
+display: table;
+table-layout: fixed;
+margin-top: 5px;
+margin-bottom: 5px;
+padding-bottom: 75px;
+
+}
+
+.div_rodape_pagina{
+
+float: left;
+width: 98%;
+padding-left: 1%;
+padding-right: 1%;
+min-height: 50px;
+background-color: #3b5998;
+border-top-color: #355088;
+border-top-style: solid;
+border-top-width: 1px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+
+a:link{
+
+text-decoration: none;
+
+}
+
+.classe_div_logotipo_topo{
+
+float: left;
+margin-top: 3px;
+margin-left: 3px;
+margin-right: 8px;
+
+}
+
+.classe_div_conteudo_rodape{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_conteudo_rodape_div{
+
+float: left;
+width: 32.3%;
+padding-left: 0.5%;
+padding-right: 0.5%;
+text-align: center;
+color: #ffffff;
+
+}
+
+.classe_div_conteudo_rodape_div *{
+	
+color: #ffffff;	
+
+}
+
+.classe_div_conteudo_lateral{
+
+float: left;
+width: 19%;
+padding: 0.5%;
+padding-top: 0px;
+padding-bottom: 0px;
+display: table;
+table-layout: fixed;
+
+}
+
+.classe_div_conteudo_centro{
+
+float: right;
+width: 79%;
+padding: 0.3%;
+padding-top: 5px;
+padding-bottom: 0px;
+
+border-color: #ebeef4;
+border-style: solid;
+border-width: 1px;
+border-top-width: 10px;
+
+}

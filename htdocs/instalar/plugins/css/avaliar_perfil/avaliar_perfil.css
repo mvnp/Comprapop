@@ -1,0 +1,23 @@
+.classe_div_avaliar_perfil{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+padding-top: 0px;
+padding-bottom: 0px;
+margin-bottom: 5px;
+display: table;
+
+}
+
+.classe_div_avaliar_perfil div{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+margin-bottom: 3px;
+cursor: pointer;
+text-align: center;
+
+}
+

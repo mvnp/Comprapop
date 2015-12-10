@@ -1,0 +1,29 @@
+
+input[type=text], textarea, select, input[type=number], input[type=password], .campo_data_formulario {
+	
+-webkit-transition: all 0.30s ease-in-out;
+-moz-transition: all 0.30s ease-in-out;
+-ms-transition: all 0.30s ease-in-out;
+-o-transition: all 0.30s ease-in-out;
+outline: none;
+padding: 1px 0px 3px 3px;
+margin: 5px 1px 3px 0px;
+border: 1px solid #DDDDDD;
+height: 27px
+
+}
+
+input[type=text]:focus, textarea:focus, select:focus, input[type=number]:focus, input[type=password]:focus, .campo_data_formulario:focus {
+	
+box-shadow: 0 0 5px rgba(59, 89, 152, 0.5);
+padding: 1px 0px 3px 3px;
+margin: 5px 1px 3px 0px;
+border: 1px solid rgba(59, 89, 152, 0.5);
+
+}
+
+textarea{
+
+height: 100px;
+
+}

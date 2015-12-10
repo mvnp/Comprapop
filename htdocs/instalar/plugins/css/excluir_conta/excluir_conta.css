@@ -1,0 +1,38 @@
+.classe_div_mensagem_excluir_conta{
+	
+float: left;
+width: 100%;
+margin-bottom: 5px;
+	
+}
+
+.classe_div_campos_excluir_conta{
+	
+float: left;
+width: 100%;
+display: table;
+table-layout: fixed;
+	
+}
+
+.classe_div_campos_excluir_conta_div_1{
+	
+float: left;
+width: 100%;
+margin-bottom: 5px;
+	
+}
+
+.classe_div_campos_excluir_conta_div_1 input[type='password']{
+
+width: 250px;
+
+}
+
+.classe_div_campos_excluir_conta_div_2{
+	
+float: left;
+width: 100%;
+
+}
+
